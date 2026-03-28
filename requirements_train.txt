@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+librosa
+soundfile
+noisereduce
+pyaudio
+pyttsx3
+evaluate
+jiwer
+faster-whisper
+ctranslate2
+accelerate
+tokenizers

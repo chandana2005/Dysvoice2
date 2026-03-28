@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Dataset files
+F_dys/
+M_dys/
+*.bz2
+*.tar
+*.zip
+
+# Audio test files
+test_recording.wav
+test_raw.wav
+test_clean.wav
+test_clean.wav
+test_output.wav
+test_samples/
+
+# Model files
+*.pt
+model/dysvoice_ct2/
+model/dysvoice_hf_temp/
+
+# Environment
+.env

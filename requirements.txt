@@ -1,0 +1,8 @@
+faster-whisper
+ctranslate2
+tokenizers
+librosa
+soundfile
+noisereduce
+pyaudio
+pyttsx3
